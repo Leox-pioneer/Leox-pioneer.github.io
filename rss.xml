@@ -3,11 +3,11 @@
   <title>LeoX&#39;s Blog</title>
   
   <subtitle>Welcome To My Blog</subtitle>
-  <link href="http://yoursite.com/rss.xml" rel="self"/>
+  <link href="https://leox-pioneer.github.io/rss.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://leox-pioneer.github.io/"/>
   <updated>2025-09-16T12:20:51.751Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://leox-pioneer.github.io/</id>
   
   <author>
     <name>LEOXy</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>TEST NOTE</title>
-    <link href="http://yoursite.com/2025/09/16/Test-note/"/>
-    <id>http://yoursite.com/2025/09/16/Test-note/</id>
+    <link href="https://leox-pioneer.github.io/2025/09/16/Test-note/"/>
+    <id>https://leox-pioneer.github.io/2025/09/16/Test-note/</id>
     <published>2025-09-16T12:20:34.342Z</published>
     <updated>2025-09-16T12:20:51.751Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2025/09/13/hello-world/"/>
-    <id>http://yoursite.com/2025/09/13/hello-world/</id>
+    <link href="https://leox-pioneer.github.io/2025/09/13/hello-world/"/>
+    <id>https://leox-pioneer.github.io/2025/09/13/hello-world/</id>
     <published>2025-09-13T10:00:05.758Z</published>
     <updated>2025-09-13T10:00:05.758Z</updated>
     
